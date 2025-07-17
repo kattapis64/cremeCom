@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 #include <math.h>
 
@@ -10,14 +11,14 @@ int main(){
 
 			printf("%c",2*str[i]-130+3*l);
 		}
-	int ld;
-	scanf("\n%d",&ld);
+	int lr;
+	scanf("\n%d",&lr);
 
-	char strd[ld];
+	char strd[lr];
 	scanf(" %s",strd);
-	for(int i =0;i<ld;i++){
+	for(int i =0;i<lr;i++){
 
-		printf("%c",(strd[i]+130-3*ld)/2);
+		printf("%c",(strd[i]+130-3*lr)/2);
 	}
 
 
