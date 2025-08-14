@@ -1,0 +1,15 @@
+
+Name :somchai
+Marks :2
+
+Name :sommai
+Marks :3
+
+Name :sommee
+Marks :6
+
+Name :somrudee
+Marks :7
+
+Name :somchat
+Marks :10
